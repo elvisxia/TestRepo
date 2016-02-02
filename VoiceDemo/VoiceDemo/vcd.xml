@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.2">
+  <CommandSet xml:lang="en-us" Name="VoiceDemoCommandSet_en-us">
+    <AppName>VoiceDemo</AppName>
+    <Example>VoiceDemo search for foo</Example>
+    <Command Name="Search">
+      <Example>search {message} using VoiceDemo</Example>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase">Search {searchTerm}</ListenFor>
+      <Feedback>Searching for "{searchTerm}" with VoiceDemo</Feedback>
+      <Navigate Target="/home/about" />
+    </Command>
+    <PhraseTopic Label="searchTerm" Scenario="Natural Language" />
+  </CommandSet>
+</VoiceCommands>

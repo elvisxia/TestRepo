@@ -1,0 +1,16 @@
+E:\Win10 APPs\VoiceDemo\VoiceDemo\bin\x86\Debug\ReverseMap\resources.pri
+E:\Win10 APPs\VoiceDemo\VoiceDemo\bin\x86\Debug\AppxManifest.xml
+E:\Win10 APPs\VoiceDemo\VoiceDemo\bin\x86\Debug\VoiceDemo.build.appxrecipe
+E:\Win10 APPs\VoiceDemo\VoiceDemo\bld\x86\Debug\ResourceHandlingTask.state
+E:\Win10 APPs\VoiceDemo\VoiceDemo\bld\x86\Debug\priconfig.xml
+E:\Win10 APPs\VoiceDemo\VoiceDemo\bld\x86\Debug\priconfig.xml.intermediate
+E:\Win10 APPs\VoiceDemo\VoiceDemo\bld\x86\Debug\layout.resfiles
+E:\Win10 APPs\VoiceDemo\VoiceDemo\bld\x86\Debug\layout.resfiles.intermediate
+E:\Win10 APPs\VoiceDemo\VoiceDemo\bld\x86\Debug\resources.resfiles
+E:\Win10 APPs\VoiceDemo\VoiceDemo\bld\x86\Debug\resources.resfiles.intermediate
+E:\Win10 APPs\VoiceDemo\VoiceDemo\bld\x86\Debug\pri.resfiles
+E:\Win10 APPs\VoiceDemo\VoiceDemo\bld\x86\Debug\pri.resfiles.intermediate
+E:\Win10 APPs\VoiceDemo\VoiceDemo\bld\x86\Debug\qualifiers.txt
+E:\Win10 APPs\VoiceDemo\VoiceDemo\bld\x86\Debug\qualifiers.txt.intermediate
+E:\Win10 APPs\VoiceDemo\VoiceDemo\bld\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Win10 APPs\VoiceDemo\VoiceDemo\bld\x86\Debug\ProjectArchitectures.txt
