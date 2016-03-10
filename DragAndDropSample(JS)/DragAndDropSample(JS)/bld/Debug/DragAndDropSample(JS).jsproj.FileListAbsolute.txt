@@ -1,0 +1,16 @@
+G:\Temp\DragAndDropSample(JS)\DragAndDropSample(JS)\bin\Debug\ReverseMap\resources.pri
+G:\Temp\DragAndDropSample(JS)\DragAndDropSample(JS)\bin\Debug\AppxManifest.xml
+G:\Temp\DragAndDropSample(JS)\DragAndDropSample(JS)\bin\Debug\DragAndDropSample(JS).build.appxrecipe
+G:\Temp\DragAndDropSample(JS)\DragAndDropSample(JS)\bld\Debug\ResourceHandlingTask.state
+G:\Temp\DragAndDropSample(JS)\DragAndDropSample(JS)\bld\Debug\priconfig.xml
+G:\Temp\DragAndDropSample(JS)\DragAndDropSample(JS)\bld\Debug\priconfig.xml.intermediate
+G:\Temp\DragAndDropSample(JS)\DragAndDropSample(JS)\bld\Debug\layout.resfiles
+G:\Temp\DragAndDropSample(JS)\DragAndDropSample(JS)\bld\Debug\layout.resfiles.intermediate
+G:\Temp\DragAndDropSample(JS)\DragAndDropSample(JS)\bld\Debug\resources.resfiles
+G:\Temp\DragAndDropSample(JS)\DragAndDropSample(JS)\bld\Debug\resources.resfiles.intermediate
+G:\Temp\DragAndDropSample(JS)\DragAndDropSample(JS)\bld\Debug\pri.resfiles
+G:\Temp\DragAndDropSample(JS)\DragAndDropSample(JS)\bld\Debug\pri.resfiles.intermediate
+G:\Temp\DragAndDropSample(JS)\DragAndDropSample(JS)\bld\Debug\qualifiers.txt
+G:\Temp\DragAndDropSample(JS)\DragAndDropSample(JS)\bld\Debug\qualifiers.txt.intermediate
+G:\Temp\DragAndDropSample(JS)\DragAndDropSample(JS)\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\Temp\DragAndDropSample(JS)\DragAndDropSample(JS)\bld\Debug\ProjectArchitectures.txt
